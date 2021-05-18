@@ -369,6 +369,14 @@ menu_text {
     margin: 20px 0px 0px 0px;
 }
 
+.banner_text2 {
+    width: 80%;
+    float: left;
+    font-size: 24px;
+    color: #fef6fc;
+    margin: 20px 0px 0px 0px;
+}
+
 .more_bt {
     width: 120px;
     float: left;
